@@ -1,0 +1,6 @@
+#mysql_config
+#Thu Sep 29 20:32:37 CEST 2022
+key_buffer_size=16M
+max_allowed_packet=128M
+port=3306
+socket=/tmp/mysql.sock
